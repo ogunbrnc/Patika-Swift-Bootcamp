@@ -1,4 +1,56 @@
-# Patika-Swift-Bootcamp
+# Company Management
+
+
+<pre>
+Home Screen
+
+◦ A positive value must be entered when adding company income and expenses. In addition, the budget must be sufficient for the expenditure.
+◦ Company salary payment is made when there is at least one employee and the budget is sufficient.
+◦ The employee list page can be accessed when there is at least one employee.
+
+Add Employee Screen
+
+◦ All employee information must be entered.
+◦ Employee salary is automatically calculated and displayed as an alert when an employee is added.
+
+Employee List Screen
+
+◦ Employees can be searched by name or surname.
+</pre>
+
+# Zoo Management
+
+<pre>
+Home Screen
+
+◦ Zoo income and expense, water limit additions can only be made with positive values. In addition, the budget must be sufficient for the expenditure.
+◦ Zoo salary payment can be made when there is at least 1 employee and the budget is sufficient.
+◦ At least 1 pet or 1 sitter is required in order to go to the Sitter&Animal listing page.
+◦ At least 1 pet sitter and 1 non-sitter are required to go to the Sitter&Animal assignment page.
+
+Adding Sitters and Pets Screens
+
+◦ Information must be entered completely.
+◦ There must be enough water to add new animals.
+◦ When the sitter's salary is calculated automatically and the sitter is created, it is displayed as Alert.
+
+Sitter&Animal List Screen
+
+◦ Sitters and Pets are shown in 2 different sections.
+◦ The list shows animals for sitters and sitter information for animals.
+◦ When I press an animal in the list, it makes its own sound.
+
+Sitter & Animal Assignment Screen
+
+◦ The sitter and the animal must be selected.
+</pre>
+
+# Random Quote
+
+
+<pre>
+• When the application is opened for the first time, a quote is randomly displayed, every time the button is pressed, a new quote is brought.
+</pre>
 
 
 
